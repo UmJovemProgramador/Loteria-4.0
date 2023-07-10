@@ -49,12 +49,10 @@ body {
     box-sizing: border-box;
     padding: 1rem 2rem;
     border: 1px solid #fff; 
-    background-color: rgb(60, 71, 170);
+    background-color: rgb(170, 179, 1255);
     cursor: pointer;
-    margin: 0 auto;
-  }
   
-
+  }
 
 @media screen and (min-width: 1024px) {
     .container {
